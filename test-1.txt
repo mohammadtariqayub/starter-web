@@ -1,3 +1,2 @@
 Line number one
-Adding line between
 Adding second line
