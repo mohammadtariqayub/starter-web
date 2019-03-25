@@ -9,9 +9,11 @@ This is an example to show the different parts of the Git repository and various
 ## Purpose
 
 Sample website with plenty of files for demos
+Adding second line
 
 ## Deployment
 This is a simple web project for git
 
 ## How to contribute
 This is to test
+Adding another line
