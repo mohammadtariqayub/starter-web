@@ -17,3 +17,5 @@ This is a simple web project for git
 ## How to contribute
 This is to test
 Adding another line
+##Copyright
+this is copyrighted
