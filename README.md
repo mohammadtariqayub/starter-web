@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Testing
+Adding a new line
 
 ## Introduction
 
